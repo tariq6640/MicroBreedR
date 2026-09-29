@@ -1,6 +1,10 @@
 # MicroBreedR
 
-An R package for microbiome-informed plant breeding.
+An R package for microbiome-informed plant breeding.# MicroBreedR
+
+## An Open-Source Framework for Microbiome-Informed Plant Breeding
+
+MicroBreedR integrates plant genomics, microbiome data, phenotypic traits, environmental information, and predictive breeding approaches to support next-generation crop improvement.
 
 ## Vision
 
